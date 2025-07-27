@@ -51,7 +51,7 @@ The live demo showcases:
 
 ## 🏗️ System Architecture
 
-![RAG System Architecture](system-architecture-diagram.png)
+<img src="https://github.com/AASani29/RAG-PipeLine-for-Financial-Data-/blob/main/Images/Blank diagram (3).png" alt="Collaborative Editor"/> 
 
 *The diagram illustrates the complete data flow from PDF ingestion through multi-modal processing to intelligent response generation*
 
